@@ -1,0 +1,7 @@
+server.port=7070
+
+# custom properties
+project.name=Spring Boot Application
+
+
+management.endpoints.web.exposure.include=*
